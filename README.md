@@ -69,4 +69,4 @@ Backend: http://localhost:3000
 
 ## 👨‍💻 Autor
 
-Máximo Sanchez
+Máximo Rey Sanchez
